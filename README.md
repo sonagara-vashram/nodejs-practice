@@ -5,15 +5,15 @@ Welcome to my **Node.js Learning** repository! 🚀 This repository is where I'm
 
 ## 📖 What You'll Find
 
-- **📅 Day-wise Practice Code**: Each session is organized into folders for easy navigation.
+- **📅 Step-wise Practice Code**: Each session is organized into folders for easy navigation.
 - **🔍 Step-by-Step Learning**: Learn Node.js, from creating a simple server to working with advanced frameworks like Express.js.
 - **📝 Notes and Concepts**: Detailed explanations of key concepts learned in each session, with comments in code for better understanding.
 
 ## 🗂️ Folder Structure
 
-- `day1/` - Setting up a basic Node.js server using the HTTP module.
-- `day2/` - Understanding Node.js modules and working with NPM.
-- `day3/` - Building a simple server using the Express.js framework.
+- `step_1/` - Setting up a basic Node.js server using the HTTP module.
+- `step_2/` - Understanding Node.js modules and working with NPM.
+- `step_3/` - Building a simple server using the Express.js framework.
 
 ## 🚀 Getting Started
 
