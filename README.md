@@ -30,9 +30,9 @@ Welcome to my **Node.js Learning** repository! 🚀 This repository is where I'm
 ### 3. Navigate to any session folder
 
    For example, to access the code for **step_1**, use the following command:
+
    ```bash
    cd step_1
-   ```
 
 ### 4. Run the Node.js application
 
@@ -44,6 +44,7 @@ Welcome to my **Node.js Learning** repository! 🚀 This repository is where I'm
 ## 💡 Why This Repo?
 
 This repository serves two purposes:
+
 1. **Documenting My Learning**: Tracking my progress as I learn Node.js, from beginner to advanced concepts.
 2. **Helping Others**: Sharing what I learn in a structured way to help other learners who might be on a similar path. Let's grow together as developers! 🤝
 
