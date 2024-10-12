@@ -1,4 +1,3 @@
-
 # Day 1: Basics of Node.js Server
 
 - Learned how to import the 'http' module.

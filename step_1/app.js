@@ -4,7 +4,7 @@ const http = require('http');
 // Creating a server
 const server = http.createServer((req, res) => {
     res.writeHead(200, { 'Content-Type': 'text/plain' });
-     // Writing a response to the client
+    // Writing a response to the client
     res.write('Hello World!');
     res.end();
     });
