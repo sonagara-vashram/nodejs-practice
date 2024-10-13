@@ -6,7 +6,7 @@ Welcome to my **Node.js Learning** repository! 🚀 This repository is where I'm
 ## 📖 What You'll Find
 
 - **📅 Step-wise Practice Code**: Each session is organized into folders for easy navigation.
-- **🔍 Step-by-Step Learning**: Learn Node.js, from creating a simple server to working with advanced frameworks like Express.js.
+- **🔍 Step-by-Step Learning**: Learn Node.js, from creating a simple server to working with advanced frameworks like Express.JS.
 - **📝 Notes and Concepts**: Detailed explanations of key concepts learned in each session, with comments in code for better understanding.
 
 ## 🗂️ Folder Structure
