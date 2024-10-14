@@ -45,6 +45,10 @@ npm install -g nodemon
 
 - Lists all globally installed packages
 
+```bash
+npm list -g --depth=0
+```
+
 ---
 
 ## 4. Path Check for Packages
