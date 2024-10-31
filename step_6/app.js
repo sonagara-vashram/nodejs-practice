@@ -1,4 +1,4 @@
-require('./global_var'); // file1.js ko import kiya
+require('./global_var');
 
 console.log(myVar); // ✅ Output: I am globally accessible!
 
