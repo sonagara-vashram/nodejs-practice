@@ -40,22 +40,3 @@ Welcome to my **Node.js Learning** repository! 🚀 This repository is where I'm
    ```bash
    node app.js
    ```
-
-## 💡 Why This Repo?
-
-This repository serves two purposes:
-
-1. **Documenting My Learning**: Tracking my progress as I learn Node.js, from beginner to advanced concepts.
-2. **Helping Others**: Sharing what I learn in a structured way to help other learners who might be on a similar path. Let's grow together as developers! 🤝
-
----
-
-Feel free to suggest or contribute if you're also learning Node.js. Let's code together! 😎
-
----
-
-## 📄 License
-
-This project is open-source, so feel free to use and contribute under the MIT License.
-
----
