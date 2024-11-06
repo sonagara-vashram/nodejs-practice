@@ -9,7 +9,7 @@ It ensures clear version management, helping developers understand whether updat
 ## 1. Versioning Format
 
 ```bash
-MAJOR.MINOR.PATCH
+MAJOR-MINOR-PATCH
 ```
 
 - MAJOR: Increment for **breaking changes**.  
